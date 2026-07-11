@@ -1,0 +1,9 @@
+{
+  "title": "Why no computer thinks 0.1 + 0.2 = 0.3 #Shorts",
+  "desc": "Ask almost any computer for 0.1 + 0.2 and it won't say 0.3 — it says 0.30000000000000004. It's not a bug: computers store numbers in binary, and one tenth has no exact binary form (just like one third never ends in decimals), so the total rounds a hair too high. The same IEEE-754 rounding shows up in Python, JavaScript, C, and almost every device you own.",
+  "tags": ["floating point", "0.1 plus 0.2", "IEEE 754", "binary", "computer science", "programming", "python", "javascript", "math facts", "coding", "shorts"],
+  "privacy": "public",
+  "category": "28",
+  "short": true,
+  "mime": "video/mp4"
+}
